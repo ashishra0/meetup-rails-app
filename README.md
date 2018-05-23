@@ -16,3 +16,5 @@ ___
 * Real time notifications
 ___
 [Click here for the tutorial.](https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f)
+
+> NOTE: The app is still in development. 
