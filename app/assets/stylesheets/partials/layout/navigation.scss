@@ -1,6 +1,7 @@
+
 nav {
   .navbar-header {
-    width: 100%;
+    // width: 100%;
     button, .navbar-brand {
       transition: opacity 0.15s;
     }
@@ -18,4 +19,8 @@ nav {
   a {
     color: white !important;
   }
+}
+
+body {
+  margin-top: 50px;
 }
